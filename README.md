@@ -5,7 +5,7 @@
 ### 手部检测  
 手部检测示例如下 ：       
 * 视频示例：  
-![video](github.com/EricLee2021-72324/yolo-v5/raw/main/samples/handd.gif)    
+![video](https://github.com/EricLee2021-72324/yolo-v5/raw/main/samples/handd.gif)    
 ## 项目配置  
 * 作者开发环境：  
 * Python 3.7  
